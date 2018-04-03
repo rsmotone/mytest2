@@ -6,4 +6,7 @@ Used for git quick start course
 a
 b
 c
+d
+e
+f
 
